@@ -55,5 +55,5 @@ The goal of **Tiny Joys** is to bring smiles to children by providing a seamless
 
 ## 🌐 Website
 
-**Visit us at:** [Tiny Joys](https://kids-for-fun.github.io/KidJsProject/)
+- **Visit us at:** [Tiny Joys](https://kids-for-fun.github.io/KidJsProject/)
 - **Wireframe & Mockup Link**: [Here](https://www.figma.com/design/98OW6JMPnVO4sHtN6R7qZX/KidsGift?node-id=0-1&t=uhMWoGx5nFdNdomT-1)
